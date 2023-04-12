@@ -11,7 +11,7 @@ Hi there!👋
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   <a>
-    <a href="https://medium.com/@whoodang">
+    <a href="https://medium.com/@woohdang">
     <img src="https://img.shields.io/badge/Medium-FFD606?style=for-the-badge&logo=medium&logoColor=black"/>
   </a>
 </p>
