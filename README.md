@@ -1,7 +1,7 @@
 # About
 Hi there!👋
 
-🤝  As an individual who revels in exploration and creation, I derive immense satisfaction from honing my technological prowess and ceaselessly tracking the forefront of emerging trends. My fervor resides in crafting exemplary products, solutions, or experiences, meticulously attending to the nuances of aesthetics, functionality, and exhibiting a discerning acumen for technological innovations. I humbly identify as a perpetual scholar in this domain.<br>
+🤝  As an individual who revels in exploration and creation, I derive immense satisfaction from honing my technological prowess and ceaselessly tracking the forefront of emerging trends. My fervor resides in crafting exemplary products, solutions, or experiences, meticulously attending to the nuances of aesthetics, functionality, and exhibiting a discerning acumen for technological innovations. I proudly identify as a perpetual learner in this domain.<br>
 👨‍💻 Software Development student.<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
