@@ -1,7 +1,7 @@
 # About
 Hi there!👋
 
-🤝 What's up guys? Let me tell you about myself. As a person who loves to explore and create, I like to push the boundaries of technology and stay on the cutting edge of the latest trends. It's about constantly honing my skills and learning new things. But it's not just about creating things, you also have to make sure they look and feel amazing. And let me tell you, there's nothing like seeing an idea come to life and knowing that you've had a hand in creating something really special. That's when I feel most alive. Keeping it real, that's how I try to do it.<br>
+🤝 What's up guys? Let me tell you about myself. As a person who loves to explore and create, I like to push the boundaries of technology and stay on the cutting edge of the latest trends. It's about constantly honing my skills and learning new things. <br>
 👨‍💻 Software Development student.<br>
 ⚡ Fun fact: I'm a melomaniac
 <p align="center">
